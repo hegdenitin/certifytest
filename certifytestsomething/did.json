@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:hegdenitin.github.io:certifytest:certifytestsomething#key-0"
+    "did:web:vharsh.github.io:DID:harsh#key-0"
   ],
   "service": [],
-  "id": "did:web:hegdenitin.github.io:certifytest:certifytestsomething",
+  "id": "did:web:vharsh.github.io:DID:harsh",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkfHpYZWPwsWZb2xFj3TUfHRix5LC69Jmab1Hq51dSVJm2",
-      "controller": "did:web:hegdenitin.github.io:certifytest:certifytestsomething",
-      "id": "did:web:hegdenitin.github.io:certifytest:certifytestsomething#key-0",
+      "publicKeyMultibase": "z6Mki7q2L261jHCGCf8iCp93QwcNCitFpfVyXL9fN3AyY3Ug",
+      "controller": "did:web:vharsh.github.io:DID:harsh",
+      "id": "did:web:vharsh.github.io:DID:harsh#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:hegdenitin.github.io:certifytest:certifytestsomething#key-0"
+    "did:web:vharsh.github.io:DID:harsh#key-0"
   ]
 }
