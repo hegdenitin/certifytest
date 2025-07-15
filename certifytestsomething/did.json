@@ -6,7 +6,7 @@
   "id": "did:web:hegdenitin.github.io:certifytest:certifytestsomething",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgAk6WtX4pLaxeLozvaLqnkBqsoTABoNLTjCrf8beeejt",
+      "publicKeyMultibase": "z6MkjA1LgAkVBG51RCLBinWSmSQRpT3cEKNmj3QrQeinokwG",
       "controller": "did:web:hegdenitin.github.io:certifytest:certifytestsomething",
       "id": "did:web:hegdenitin.github.io:certifytest:certifytestsomething#key-0",
       "type": "Ed25519VerificationKey2020",
