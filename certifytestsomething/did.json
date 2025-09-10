@@ -6,7 +6,6 @@
   "verificationMethod": [
     {
       "id": "did:web:hegdenitin.github.io:certifytest:certifytestsomething#keys-1",
-      "type": "JsonWebKey2020",
       "controller": "did:web:hegdenitin.github.io:certifytest:certifytestsomething",
       "publicKeyJwk": {
         "kty": "OKP",
