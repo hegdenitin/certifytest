@@ -11,7 +11,8 @@
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
-        "x": "IKXhA7W1HD1sAl-OfG59VKAqciWrrOL1Rw5F-PGLhi4"
+        "x": "IKXhA7W1HD1sAl-OfG59VKAqciWrrOL1Rw5F-PGLhi4",
+        "kid": "did:web:hegdenitin.github.io:certifytest:certifytestsomething#key-1"
       }
     }
   ],
